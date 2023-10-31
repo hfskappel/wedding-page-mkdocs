@@ -1,0 +1,6 @@
+mkdocs-material
+markdown-include
+mkdocs-include-markdown-plugin
+mkdocs_puml
+mkdocs-awesome-pages-plugin
+mkdocs-encryptcontent-plugin

@@ -1,0 +1,66 @@
+site_name: Annicken og Hans Fredrik
+docs_dir: ./docs
+theme:
+  icon:
+    logo: material/ring
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: white
+      accent: amber
+      toggle:
+        icon: material/heart
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/heart
+        name: Switch to dark mode
+  name: material
+  highlightjs: true
+  features:
+    - content.code.copy
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.top
+    - navigation.tracking
+    - navigation.footer
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
+
+plugins:
+  - awesome-pages
+  - include-markdown
+  - encryptcontent:
+      password_button: True
+      password_button_text: 'Send'
+      summary: 'Logg inn med kode i fra invitasjonen'
+      placeholder: 'Passord her'
+      encryption_info_message: "(Har du allerede logget inn tidligere, prøv refresh)"
+      decryption_failure_message: 'Passordet var feil. Kontakt HF på hfskappel@gmail.com ved problemer.'
+      remember_password: True
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - markdown_include.include:
+      base_path: docs
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - admonition
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
