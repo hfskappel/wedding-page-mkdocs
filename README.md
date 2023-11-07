@@ -14,6 +14,6 @@ pip3 install mkdocs-encryptcontent-plugin
 # To run locally
 mkdocs serve
 
-# Deploy to github-pages
-mkdocs gh-deploy
+# Deploy to github-pages using the mkdocs-prod.yml file (no
+mkdocs gh-deploy --config-file mkdocs-prod.yml
 ```
