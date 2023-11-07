@@ -11,6 +11,6 @@ Kartet nedenfor viser noen av overnattingsmulighetene sett i forhold til kirke o
 - [Bolstad Motell (Rudshøgda)](https://bolstad-restaurant.no/bolstad-motell)
 - [Honne Hotell (Biri)](https://www.honne.no/)
 - [Steinvik Camping (Moelv)](https://www.steinvikcamping.no/)
-
+- [Kvarstad Gård (Gaupen)](https://kvarstad-gaard.no/overnatting.html)
 
 ![axhf](../Images/logo.png){: style="height:150px;width:150px"}
