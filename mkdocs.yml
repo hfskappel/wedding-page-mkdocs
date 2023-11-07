@@ -1,5 +1,5 @@
 site_name: Annicken og Hans Fredrik
-docs_dir: ./docs
+docs_dir: ./docs-prod
 theme:
   icon:
     logo: material/ring
@@ -37,13 +37,17 @@ plugins:
   - awesome-pages
   - include-markdown
   - encryptcontent:
-      password_button: True
-      password_button_text: 'Send'
-      summary: 'Logg inn med kode i fra invitasjonen'
-      placeholder: 'Passord her'
-      encryption_info_message: "(Har du allerede logget inn tidligere, prøv refresh)"
-      decryption_failure_message: 'Passordet var feil. Kontakt HF på hfskappel@gmail.com ved problemer.'
-      remember_password: True
+          password_inventory:
+            secret: !ENV RSVP_PASSWORD
+ # - encryptcontent:
+ #     password_button: True
+ #     password_button_text: 'Send'
+ #     summary: 'Logg inn med kode i fra invitasjonen'
+ #     placeholder: 'Passord her'
+ #     encryption_info_message: "(Har du allerede logget inn tidligere, prøv refresh)"
+ #     decryption_failure_message: 'Passordet var feil. Kontakt HF på hfskappel@gmail.com ved problemer.'
+ #     remember_password: True
+
 
 markdown_extensions:
   - toc:

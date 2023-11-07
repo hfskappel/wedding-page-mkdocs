@@ -1,4 +1,5 @@
 .idea
 target
-docs-prod
+docs-local
 encryptcontent.cache
+site

@@ -1,3 +1,0 @@
-# Bryllupet
-
-## Vielsen
