@@ -19,14 +19,18 @@ Mørk dress / Smoking
 
 
 ## Transport
-Vi planlegger å sette opp følgende fellestransport for de som ønsker det. Dette blir et gratistilbud for de som ønsker å benytte seg av dette. 
+Vi skal sette opp fellestransport til vielse og fest. Dette blir et gratistilbud for de som ønsker å benytte seg av dette. 
 Tider er tentative og vi vil oppdatere med endelige tider når vi vet mer:
 
-- **Ca kl 13:15**: Transport i fra Wood Hotel til Ringsaker kirke
-- **Ca kl 15:30**: Transport i fra vielsen til festen på Roterud
+- **Kl 13:15**: Transport i fra Wood Hotel til Ringsaker kirke. Oppmøte vil være utenfor hvovedinngang.
+- **Etter kirken (ca kl 15:30)**: Transport i fra vielsen til festen på Roterud
 
 
-Utover dette må transport organiseres på eget ansvar. Her er aktuell kontaktinformasjon:
+Utover dette må transport organiseres på eget initiativ. 
+
+**For hjemreisen:** det anbefales å gå sammen om å booke taxi på vei hjem i fra festen. 
+
+Aktuell kontaktinformasjon:
 
 - **Moelv Taxi:** 62 36 72 79
 - **Nes Taxi:** 959 50 125
@@ -35,7 +39,7 @@ Utover dette må transport organiseres på eget ansvar. Her er aktuell kontaktin
 
 ## Taler 
 
-Dersom du ønsker å si noen ord under bryllupsmiddagen kan kontakte våre toastmastere Ole Fredrik Bratberg ( xxx xx xxx / olefreb@gmail.com) og Johannes Groseth (johannesgroseth@gmail.com)
+Dersom du ønsker å si noen ord under bryllupsmiddagen kan du kontakte en av våre toastmastere **Ole Fredrik Bratberg** (tlf 412 67 341) eller **Johannes Groseth** (tlf 482 61 922)
 innen 20 juni.
 
 Det er mikrofon, projektor og høyttalere med nødvendige tilkoblingskabler til PC tilgjengelig på lokalet.
@@ -43,6 +47,8 @@ Det er mikrofon, projektor og høyttalere med nødvendige tilkoblingskabler til 
 
 ## Annet
 
-Øvrige spørsmål kan rettes til Annicken på tlf 454 45 668 eller på e-post: anbruu@gmail.com
+Det vil være åpen bar under festen. Det er lov å ta med medbrakt om det skulle være et ønske.
+
+Øvrige spørsmål kan rettes til Annicken på tlf 454 45 668 eller på e-post: [anbruu@gmail.com](mailto:anbruu@gmail.com)
 
 ![axhf](../Images/logo.png){: style="height:150px;width:150px"}

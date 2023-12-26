@@ -4,20 +4,12 @@ theme:
   icon:
     logo: material/ring
   palette:
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: white
-      accent: amber
-      toggle:
-        icon: material/heart
-        name: Switch to light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: black
-      accent: amber
-      toggle:
-        icon: material/heart
-        name: Switch to dark mode
+    scheme: default
+    primary: custom
+    accent: teal
+    toggle:
+      icon: material/heart
+      name: Switch to dark mode
   name: material
   highlightjs: true
   features:
@@ -38,7 +30,7 @@ plugins:
   - include-markdown
   - encryptcontent:
       password_inventory:
-        secret: secret-password-here
+        secret: secret
       password_button: True
       password_button_text: 'Send'
       summary: 'Logg inn med kode i fra invitasjonen'
@@ -66,3 +58,5 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+extra_css:
+  - stylesheets/extra.css
