@@ -4,3 +4,4 @@ docs-local
 encryptcontent.cache
 site
 mkdocs-prod.yml
+.DS_Store
