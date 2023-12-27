@@ -3,13 +3,13 @@
 
 ## Program for dagen
 
-**14:00:** Vielsen
+**14:00 :wedding:** Vielsen
 
-**15:45:** Velkomstdrink og mingling på Roterud gård.
+**15:45 :cocktail:** Velkomstdrink og mingling på Roterud gård.
 
-**16:30:** Bryllupskake og felles fotografering.
+**16:30 :cake:** Bryllupskake og felles fotografering.
 
-**18:00:** Middag.
+**18:00 :fork_and_knife:** Middag.
 
 *\* Tidene er tentative*
 
@@ -22,8 +22,8 @@ Mørk dress / Smoking
 Vi skal sette opp fellestransport til vielse og fest. Dette blir et gratistilbud for de som ønsker å benytte seg av dette. 
 Tider er tentative og vi vil oppdatere med endelige tider når vi vet mer:
 
-- **Kl 13:15**: Transport i fra Wood Hotel til Ringsaker kirke. Oppmøte vil være utenfor hvovedinngang.
-- **Etter kirken (ca kl 15:30)**: Transport i fra vielsen til festen på Roterud
+- **Kl 13:15**: Transport i fra Wood Hotel til Ringsaker kirke. Oppmøte vil være utenfor hovedinngangen.
+- **Etter kirken (ca kl 15:20)**: Transport i fra vielsen til festen på Roterud
 
 
 Utover dette må transport organiseres på eget initiativ. 
