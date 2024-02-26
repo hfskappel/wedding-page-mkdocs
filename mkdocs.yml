@@ -30,7 +30,7 @@ plugins:
   - include-markdown
   - encryptcontent:
       password_inventory:
-        secret: secret
+        secret: 22juni
       password_button: True
       password_button_text: 'Send'
       summary: 'Logg inn med kode i fra invitasjonen'

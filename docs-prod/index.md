@@ -8,5 +8,5 @@ Hei og velkommen til vår bryllupsside! 🥰 Her skal vi samle alt av praktisk i
 ![Roterud2](../Images/engen-walk-small.jpg){: style="width:400px"}
 ![Tobemarried](Images/engen-ring-small.jpg){: style="width:800px"}
 
-![axhf](../Images/logo.png){: style="height:150px;width:150px"}
+![axhf](../Images/logo-sort.png){: style="height:150px;width:150px"}
 

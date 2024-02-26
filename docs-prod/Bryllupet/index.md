@@ -20,4 +20,4 @@ Sulufjellvegen 264, 2353 Stavsjø
 ![Roterud](../Images/roterud-small.jpg){: style="width:400px"}
 ![Roterud2](../Images/roterud-utsikt-small.jpg){: style="width:400px"}
 
-![axhf](../Images/logo.png){: style="height:150px;width:150px"}
+![axhf](../Images/logo-sort.png){: style="height:150px;width:150px"}
