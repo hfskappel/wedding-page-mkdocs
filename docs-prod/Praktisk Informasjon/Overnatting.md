@@ -8,7 +8,6 @@ Kartet nedenfor viser noen av overnattingsmulighetene sett i forhold til kirke o
 - [Wood Hotel / Mjøstårnet (Brumunddal)](https://frich.no/wood-hotel) *10% rabatt med bookingkoden BRYLLUP*
 - [Topcamp Mjøsa (Brumunddal)](https://topcamp.no/topcamp-mjosa/bo/hytter-og-leiligheter)
 - [Frich Rudshøgda (Rudshøgda)](https://frich.no/rudshogda)
-- [Bolstad Motell (Rudshøgda)](https://bolstad-restaurant.no/bolstad-motell)
 - [Honne Hotell (Biri)](https://www.honne.no/)
 - [Steinvik Camping (Moelv)](https://www.steinvikcamping.no/)
 - [Kvarstad Gård (Gaupen)](https://kvarstad-gaard.no/overnatting.html)
