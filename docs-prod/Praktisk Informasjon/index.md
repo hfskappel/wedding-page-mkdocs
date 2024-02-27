@@ -11,7 +11,7 @@
 
 **18:00 :fork_and_knife:** Middag.
 
-*\* Med unntak av vielsen er tidspunktene er omtrentlige og kan bli justert etter behov.* 
+*\* Med unntak av vielsen er tidspunktene omtrentlige og kan bli justert etter behov.* 
 
 ## Dresskode
 
@@ -49,6 +49,6 @@ Se [Overnatting og kart](Overnatting.md)
 
 ## Annet
 
-- Øvrige spørsmål kan rettes til Annicken :woman_office_worker:	 på tlf 454 45 668 eller på e-post: [anbruu@gmail.com](mailto:anbruu@gmail.com)
+Øvrige spørsmål kan rettes til Annicken :woman_office_worker:	på tlf 454 45 668 eller på e-post [anbruu@gmail.com](mailto:anbruu@gmail.com)
 
 ![axhf](../Images/logo-sort.png){: style="height:150px;width:150px"}
