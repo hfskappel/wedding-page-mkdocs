@@ -1,6 +1,6 @@
 # Vi gifter oss!
 
-Hei og velkommen til vår bryllupsside! 🥰 Her skal vi samle alt av praktisk informasjon i forbindelse med bryllupet vårt.
+Hei og velkommen til vår bryllupsside! 🥰 Her skal vi samle alt av praktisk informasjon i forbindelse med bryllupet vårt, den 22 juni 2024.
 
 
 ![Tobemarried](Images/aoghf-small.jpg){: style="width:800px"}
